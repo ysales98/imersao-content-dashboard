@@ -2,6 +2,12 @@
 
 Dashboard de gerenciamento de conteúdo desenvolvido com React e Vite.
 
+## Demo online
+
+Acesse a aplicação em produção:
+
+🔗 https://imersao-content-dashboard.vercel.app/
+
 ## Tecnologias
 
 - React
@@ -9,6 +15,8 @@ Dashboard de gerenciamento de conteúdo desenvolvido com React e Vite.
 - Vite
 - HTML5
 - CSS3
+- Vitest
+- Testing Library
 - Git
 - GitHub
 
