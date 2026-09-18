@@ -1,6 +1,6 @@
 # Imersão Content Dashboard
 
-Dashboard de gerenciamento de conteúdo desenvolvido com React e Vite.
+Painel de conteúdo em React com busca, filtros por categoria, favoritos no localStorage, interações com modais acessíveis e testes automatizados.
 
 ## Demo online
 
