@@ -1,51 +1,42 @@
-# Painel de Conteúdos Imersão & Devoção
+# Imersão Content Dashboard
 
-Aplicação React criada para explorar, filtrar e favoritar estudos bíblicos. O projeto transforma o conteúdo editorial do **Imersão & Devoção** em uma interface interativa e demonstra competências de desenvolvimento front-end.
-
-## Demonstração
-
-Adicione aqui o link do deploy após publicar o projeto no Vercel ou Netlify.
-
-## Funcionalidades
-
-- Busca sem diferenciação de acentos por título, tema, série ou referência bíblica
-- Filtros combináveis por categoria
-- Favoritos persistidos no `localStorage`
-- Visualização de resumo em modal com fechamento pela tecla `Escape`
-- Contadores calculados a partir dos dados
-- Estado vazio com limpeza de filtros
-- Layout responsivo para desktop, tablet e celular
-- Preferência de movimento reduzido e navegação básica por teclado
+Dashboard de gerenciamento de conteúdo desenvolvido com React e Vite.
 
 ## Tecnologias
 
 - React
-- JavaScript ES6+
+- JavaScript
 - Vite
-- CSS responsivo
-- Vitest
-- Testing Library
-- Local Storage API
+- HTML5
+- CSS3
+- Git
+- GitHub
 
-## Conceitos aplicados
+## Funcionalidades
 
-- Componentização
-- Hooks `useState`, `useEffect`, `useMemo` e `useRef`
-- Hook personalizado `useLocalStorage`
-- Estado derivado e filtros combináveis
-- Renderização condicional
-- Persistência no navegador
-- Acessibilidade semântica
-- Testes de comportamento
+- Gerenciamento de conteúdos
+- Interface responsiva
+- Organização de publicações
+- Componentização com React
+- Navegação intuitiva
 
 ## Como executar
 
-```bash
+Clone o repositório:
+
 git clone https://github.com/ysales98/imersao-content-dashboard.git
+
+Entre na pasta:
+
 cd imersao-content-dashboard
+
+Instale as dependências:
+
 npm install
+
+Execute o projeto:
+
 npm run dev
-```
 
 ## Testes e build
 
